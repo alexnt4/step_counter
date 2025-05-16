@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador de Pasos</string>
+    <string name="steps_count">Pasos dados: %1$d</string>
+    <string name="motivation_text">¡Sigue caminando para mantenerte saludable!</string>
+    <string name="app_version">Contador de Pasos - v1.0</string>
+    <string name="permission_denied">Permiso de actividad denegado.</string>
+    <string name="notification_title">Contador de Pasos</string>
+</resources>
