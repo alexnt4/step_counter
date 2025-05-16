@@ -20,7 +20,7 @@ Una aplicación sencilla y eficiente para contar los pasos que das a lo largo de
 
 ## 📱 Capturas de pantalla
 
-*(Inserta aquí capturas de pantalla de la aplicación)*
+![Pantalla principal de la app](./docs/images/img.png)
 
 ## 🔧 Requisitos del sistema
 
@@ -133,13 +133,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 📧 Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactar:
-
-- Email: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- GitHub: [tu-nombre-de-usuario](https://github.com/tu-nombre-de-usuario)
 
 ---
 
