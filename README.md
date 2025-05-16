@@ -50,7 +50,7 @@ Una aplicación sencilla y eficiente para contar los pasos que das a lo largo de
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/usuario/contador-pasos.git
+git clone git@github.com:alexnt4/step_counter.git
 ```
 
 2. Abre el proyecto en Android Studio:
